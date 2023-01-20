@@ -1,0 +1,18 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.alwaysShowStatus": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    
+    "printWidth": 150,
+    "tabWidth": 2,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "bracketSpacing": true,
+    "semi": true,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "proseWrap": "preserve"
+}
